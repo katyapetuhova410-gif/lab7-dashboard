@@ -21,6 +21,7 @@
 - Pandas / NumPy (обработка данных)
 
 ## Установка и запуск
+
 ```bash
 pip install matplotlib seaborn pandas numpy
 python dashboard.py
